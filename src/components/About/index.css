@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.about-container {
+  min-height: 90vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.isDarkBackground {
+  background-color: #000000;
+}
+
+.about-image {
+  width: 100px;
+}
+
+.about-heading {
+  font-family: 'Roboto';
+  font-size: 48px;
+  margin-top: 0px;
+}
+
+.isDarkHeading {
+  color: #ffffff;
+}

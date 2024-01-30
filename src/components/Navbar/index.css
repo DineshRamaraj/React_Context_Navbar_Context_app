@@ -1,0 +1,46 @@
+/* Write your CSS here */
+
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  padding: 0px 30px;
+  border: 1px solid #dcdcdc;
+}
+
+.bg-navbar {
+  background-color: #333333;
+  border: 1px solid #333333;
+}
+
+.navbar-website-logo {
+  width: 50px;
+}
+
+.navbar-list-container {
+  display: flex;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.navbar-link {
+  text-decoration: none;
+}
+
+.navbar-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #1e293b;
+  margin-left: 20px;
+}
+
+.navbar-item-heading {
+  color: #ffffff;
+}
+
+.color-change-image {
+  width: 40px;
+  cursor: pointer;
+}

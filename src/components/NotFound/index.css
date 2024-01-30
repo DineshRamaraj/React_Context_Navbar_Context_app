@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.bg-not-found-container {
+  background-color: #000000;
+}
+
+.not-found-image {
+  width: 30%;
+}
+
+.not-found-title {
+  font-size: 24px;
+  font-family: 'Roboto';
+  color: #171f46;
+}
+
+.not-found-heading {
+  color: #ffffff;
+}
+
+.not-found-para {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.not-found-description {
+  color: #ffffff;
+}
